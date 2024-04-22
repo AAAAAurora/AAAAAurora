@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aurora.
-- 👀 I’m swimming.
+- 👀 I love swimming.
 - 🌱 I’m currently learning SLAM.
 - 💞️ I’m looking to collaborate on everything.
 - 📫 My e-mail is 1021121049@qq.com.
