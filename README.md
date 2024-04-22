@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aurora.
-- 👀 I’m interested in sleeping, eatting, playing games, and swimming.
-- 🌱 I’m currently learning computer science.
+- 👀 I’m swimming.
+- 🌱 I’m currently learning SLAM.
 - 💞️ I’m looking to collaborate on everything.
 - 📫 My e-mail is 1021121049@qq.com.
 
